@@ -4,7 +4,7 @@ import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
-import com.techyourchance.dagger2course.common.dependnecyinjection.activity.ActivityScope
+import com.techyourchance.dagger2course.common.dependencyinjection.activity.ActivityScope
 import javax.inject.Inject
 
 @ActivityScope

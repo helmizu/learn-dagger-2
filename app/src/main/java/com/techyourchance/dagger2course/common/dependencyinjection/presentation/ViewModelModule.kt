@@ -1,11 +1,10 @@
-package com.techyourchance.dagger2course.common.dependnecyinjection.presentation
+package com.techyourchance.dagger2course.common.dependencyinjection.presentation
 
 import androidx.lifecycle.ViewModel
 import com.techyourchance.dagger2course.screens.viewmodel.MyViewModel
 import com.techyourchance.dagger2course.screens.viewmodel.MyViewModel2
 import dagger.Binds
 import dagger.Module
-import dagger.Provides
 import dagger.multibindings.IntoMap
 
 @Module

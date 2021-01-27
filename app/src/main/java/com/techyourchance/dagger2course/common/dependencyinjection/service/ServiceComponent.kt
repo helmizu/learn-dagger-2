@@ -1,4 +1,4 @@
-package com.techyourchance.dagger2course.common.dependnecyinjection.service
+package com.techyourchance.dagger2course.common.dependencyinjection.service
 
 import dagger.Subcomponent
 

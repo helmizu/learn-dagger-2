@@ -1,8 +1,8 @@
-package com.techyourchance.dagger2course.common.dependnecyinjection.activity
+package com.techyourchance.dagger2course.common.dependencyinjection.activity
 
 import androidx.appcompat.app.AppCompatActivity
-import com.techyourchance.dagger2course.common.dependnecyinjection.presentation.PresentationComponent
-import com.techyourchance.dagger2course.common.dependnecyinjection.presentation.PresentationModule
+import com.techyourchance.dagger2course.common.dependencyinjection.presentation.PresentationComponent
+import com.techyourchance.dagger2course.common.dependencyinjection.presentation.PresentationModule
 import dagger.BindsInstance
 import dagger.Subcomponent
 

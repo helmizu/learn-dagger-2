@@ -1,8 +1,8 @@
-package com.techyourchance.dagger2course.common.dependnecyinjection.app
+package com.techyourchance.dagger2course.common.dependencyinjection.app
 
 import android.app.Application
-import com.techyourchance.dagger2course.common.dependnecyinjection.Retrofit1
-import com.techyourchance.dagger2course.common.dependnecyinjection.Retrofit2
+import com.techyourchance.dagger2course.common.dependencyinjection.Retrofit1
+import com.techyourchance.dagger2course.common.dependencyinjection.Retrofit2
 import com.techyourchance.dagger2course.networking.StackoverflowApi
 import com.techyourchance.dagger2course.networking.UrlProvider
 import dagger.Module

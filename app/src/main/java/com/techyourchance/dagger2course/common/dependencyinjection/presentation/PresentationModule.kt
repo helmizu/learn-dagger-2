@@ -1,4 +1,4 @@
-package com.techyourchance.dagger2course.common.dependnecyinjection.presentation
+package com.techyourchance.dagger2course.common.dependencyinjection.presentation
 
 import androidx.savedstate.SavedStateRegistryOwner
 import dagger.Module
